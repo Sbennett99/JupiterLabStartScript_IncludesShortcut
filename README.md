@@ -13,7 +13,7 @@ jupyter notebook
 
 #### 2. Place Script where you would like to keep it and create a shortcut on you Desktop
 
-![](Short1.png)
+![](./Short1.png)
 
 
 ![]
