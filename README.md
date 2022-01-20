@@ -28,4 +28,10 @@ powershell.exe -ExecutionPolicy Bypass -NoExit -File {The File Location of the s
 ![](short4.PNG)
 
 #### Tips
-- The Run as ADministrator feature is in the advanced Tab
+- The Run as Administrator feature is in the Advanced Tab
+
+
+
+### Credit
+
+https://www.tenforums.com/tutorials/97162-powershell-scripting-run-script-shortcut.html
