@@ -18,8 +18,11 @@ jupyter notebook
 ##### Name
 ![](Short2.PNG)
 
-#####
+##### Go to Properties
 ![](short3.PNG)
 
-#####
+##### add the following to the begining of the shorthcut target
+```Powershell
+
+```
 ![](short4.PNG)
