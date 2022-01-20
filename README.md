@@ -12,8 +12,14 @@ jupyter notebook
 ```
 
 #### 2. Place Script where you would like to keep it and create a shortcut on you Desktop
-
+##### Create
 ![](Short1.PNG)
 
+##### Name
+![](Short2.PNG)
 
-![]
+#####
+![](short3.PNG)
+
+#####
+![](short4.PNG)
