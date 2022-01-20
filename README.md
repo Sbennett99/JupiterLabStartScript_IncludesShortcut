@@ -1,4 +1,4 @@
-# JupiterLab Start as Jupiter notebook Script__Shortcut instructions included below
+# Starting Jupyter Lab as Jupyter notebook using a Script__Also:Shortcut instructions included below
 
 ## Instructions:
 
