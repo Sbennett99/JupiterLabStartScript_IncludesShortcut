@@ -26,3 +26,6 @@ jupyter notebook
 powershell.exe -ExecutionPolicy Bypass -NoExit -File {The File Location of the script that should have already been there}
 ```
 ![](short4.PNG)
+
+#### Tips
+- The Run as ADministrator feature is in the advanced Tab
