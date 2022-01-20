@@ -21,8 +21,8 @@ jupyter notebook
 ##### Go to Properties
 ![](short3.png)
 
-##### add the following to the begining of the shorthcut target
+##### add the following to the begining of the shorthcut target and insure running as Administrator
 ```Powershell
-
+powershell.exe -ExecutionPolicy Bypass -NoExit -File {The File Location of the script that should have already been there}
 ```
 ![](short4.PNG)
