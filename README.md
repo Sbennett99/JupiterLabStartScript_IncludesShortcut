@@ -1,4 +1,4 @@
-# JupiterLabStartScript_IncludesShortcut
+# JupiterLab Start as Jupiter notebook Script__Shortcut instructions included below
 
 ## Instructions:
 
