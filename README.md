@@ -29,7 +29,7 @@ powershell.exe -ExecutionPolicy Bypass -NoExit -File {The File Location of the s
 
 #### Tips
 - The Run as Administrator feature is in the Advanced Tab
-
+- Jupyter_logo.ico is the Jupyter logo in the correct icon format to use for your shortcut's icon if you want
 
 
 ### Credit
