@@ -15,19 +15,19 @@ jupyter notebook
 ##### Create
 ![](Short1.PNG)
 
-##### Name
+##### ---Name
 ![](Short2.PNG)
 
-##### Go to Properties
+##### ---Go to Properties
 ![](short3.png)
 
-##### add the following to the begining of the shorthcut target and insure running as Administrator
+##### ---add the following to the begining of the shorthcut target and insure running as Administrator
 ```Powershell
 powershell.exe -ExecutionPolicy Bypass -NoExit -File {The File Location of the script that should have already been there}
 ```
 ![](short4.PNG)
 
-#### Tips
+#### ----Tips
 - The Run as Administrator feature is in the Advanced Tab
 - Jupyter_logo.ico is the Jupyter logo in the correct icon format to use for your shortcut's icon if you want
 
