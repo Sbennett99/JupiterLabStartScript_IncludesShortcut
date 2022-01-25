@@ -1,4 +1,5 @@
-# Starting Jupyter Lab as Jupyter notebook using a Script__Also:Shortcut instructions included below
+# ~~Starting Jupyter Lab as Jupyter notebook using a Script__Also:Shortcut instructions included below~~ Problem fixed in Jupyter update so I made this --> ![How to Just Make a Shortcut Normaly](https://github.com/Sbennett99/JupyterLab_Shortcut_Creation)
+
 
 ## Instructions:
 
